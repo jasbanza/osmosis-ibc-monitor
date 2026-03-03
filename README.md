@@ -21,3 +21,7 @@ Requires Node.js 18+ (uses native `fetch`).
 ## Automated checks
 
 A GitHub Actions workflow runs this check daily at 06:00 UTC. You can also trigger it manually from the Actions tab.
+
+## License
+
+MIT
